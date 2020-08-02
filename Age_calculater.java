@@ -1,7 +1,7 @@
 /****************************************************************
 * Age_Calculater.java
 * Author: Himanshu Sharma
-* Contact: 9818805401hs@gmail.com
+* Contact: himanshusharma2972@gmail.com
 * Discription : This is the simple Age Calculater in JAVA
 *                for learning purpose.
 * 
